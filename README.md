@@ -122,7 +122,7 @@ fmt.Printf(<span class="hljs-string">"%q \n%s"</span>, a1, a2)
 <span class="hljs-comment">// вывод: </span>
 <span class="hljs-comment">// "123" </span>
 <span class="hljs-comment">// 1234</span>
-</code></pre></span></div>
+</code></pre></span>
       </div>
 </div>
 </div>
