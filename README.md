@@ -4,7 +4,7 @@
 <!---->
       <div id="ember2997" class="step-view step-view_material ember-view"><!----><div class="step-wrapper">
   <div class="step-inner page-fragment">
-      <div id="ember2998" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><h2>Форматированный вывод</h2>
+      <div id="ember2998" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span>
 
 <p><br>
 Ряд возможностей для вывода&nbsp;и не только предоставляет пакет&nbsp;<a href="https://golang.org/pkg/fmt" rel="nofollow noopener noreferrer" target="_blank">fmt</a>. До этого&nbsp;мы использовали только <code>Print</code> и <code>Println</code>, а что если нам понадобится вывести, допустим у числа <strong>float64</strong> только 2&nbsp;знака&nbsp;после запятой. Подобные&nbsp;операции удобно делать через функцию <code>Printf</code>. Давайте рассмотрим&nbsp;основные возможности.</p>
@@ -124,7 +124,6 @@ fmt.Printf(<span class="hljs-string">"%q \n%s"</span>, a1, a2)
 <span class="hljs-comment">// 1234</span>
 </code></pre></span></div>
       </div>
-</div>
 </div>
 </div>
 </article>
